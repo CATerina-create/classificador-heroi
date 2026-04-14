@@ -1,0 +1,14 @@
+C:\Projetos\Desafio de projeto\ClassificadorHeroi\bin\Debug\net10.0\ClassificadorHeroi.exe
+C:\Projetos\Desafio de projeto\ClassificadorHeroi\bin\Debug\net10.0\ClassificadorHeroi.deps.json
+C:\Projetos\Desafio de projeto\ClassificadorHeroi\bin\Debug\net10.0\ClassificadorHeroi.runtimeconfig.json
+C:\Projetos\Desafio de projeto\ClassificadorHeroi\bin\Debug\net10.0\ClassificadorHeroi.dll
+C:\Projetos\Desafio de projeto\ClassificadorHeroi\bin\Debug\net10.0\ClassificadorHeroi.pdb
+C:\Projetos\Desafio de projeto\ClassificadorHeroi\obj\Debug\net10.0\ClassificadorHeroi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Desafio de projeto\ClassificadorHeroi\obj\Debug\net10.0\ClassificadorHeroi.AssemblyInfoInputs.cache
+C:\Projetos\Desafio de projeto\ClassificadorHeroi\obj\Debug\net10.0\ClassificadorHeroi.AssemblyInfo.cs
+C:\Projetos\Desafio de projeto\ClassificadorHeroi\obj\Debug\net10.0\ClassificadorHeroi.csproj.CoreCompileInputs.cache
+C:\Projetos\Desafio de projeto\ClassificadorHeroi\obj\Debug\net10.0\ClassificadorHeroi.dll
+C:\Projetos\Desafio de projeto\ClassificadorHeroi\obj\Debug\net10.0\refint\ClassificadorHeroi.dll
+C:\Projetos\Desafio de projeto\ClassificadorHeroi\obj\Debug\net10.0\ClassificadorHeroi.pdb
+C:\Projetos\Desafio de projeto\ClassificadorHeroi\obj\Debug\net10.0\ClassificadorHeroi.genruntimeconfig.cache
+C:\Projetos\Desafio de projeto\ClassificadorHeroi\obj\Debug\net10.0\ref\ClassificadorHeroi.dll
